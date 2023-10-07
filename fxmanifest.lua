@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Viper'
-description 'HX Development
+description 'HX Development'
 version '1.0'
 
 shared_scripts {
